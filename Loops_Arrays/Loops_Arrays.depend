@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520513899 source:c:\users\esand92\documents\codeblocks\loops_arrays\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1520887024 source:e:\projects\c++\loops_arrays\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+

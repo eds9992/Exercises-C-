@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553355460 source:f:\projects\c++\hashtable\hash.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"hash.h"
+
+1553355218 f:\projects\c++\hashtable\hash.h
+	<iostream>
+	<string>
+
+1553192852 source:f:\projects\c++\hashtable\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"hash.h"
+

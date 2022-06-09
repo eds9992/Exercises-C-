@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541445112 source:e:\projects\c++\lambda_anonymousfunctions\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
+1541445112 source:f:\projects\c++\lambda_anonymousfunctions\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

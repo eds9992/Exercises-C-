@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540838682 source:e:\projects\c++\iterators_lab\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<ctime>
+
+1540913440 source:f:\projects\c++\iterators_lab\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+

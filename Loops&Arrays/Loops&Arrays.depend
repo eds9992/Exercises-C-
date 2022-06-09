@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520899186 source:e:\projects\c++\loops&arrays\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

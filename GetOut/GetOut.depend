@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583245692 source:e:\projects\c++\getout\main.cpp
+	<iostream>
+	<stdio.h>
+

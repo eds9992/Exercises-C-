@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542221030 source:e:\projects\c++\lambdafunctions_lab\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+
+1541808578 source:f:\projects\c++\lambdafunctions_lab\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522183390 source:c:\users\ersanders9750\documents\function\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
+1522183392 source:e:\projects\c++\function\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

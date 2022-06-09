@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542048458 source:e:\projects\c++\algorithms_replaceremove\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+
+1542118576 source:f:\projects\c++\algorithms_replaceremove\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+

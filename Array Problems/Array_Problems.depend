@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521065778 source:c:\users\esand92\documents\codeblocks\array_problems\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543430358 source:e:\projects\c++\datastructures_set\main.cpp
+	<iostream>
+	<set>
+

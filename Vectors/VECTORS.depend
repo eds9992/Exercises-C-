@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523322252 source:e:\projects\c++\vectors\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<vector>
+

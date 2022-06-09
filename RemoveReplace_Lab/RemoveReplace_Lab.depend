@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542210960 source:f:\projects\c++\removereplace_lab\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<ctime>
+

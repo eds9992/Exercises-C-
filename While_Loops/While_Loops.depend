@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519935522 source:c:\users\ersanders9750\documents\while_loops\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

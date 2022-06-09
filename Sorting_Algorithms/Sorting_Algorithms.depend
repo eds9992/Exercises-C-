@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541012492 source:e:\projects\c++\sorting_algorithms\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1541081892 source:f:\projects\c++\sorting_algorithms\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
